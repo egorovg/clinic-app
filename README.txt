@@ -1,1 +1,0 @@
-Скрипты инициализации БД находятся в папке src\main\resources\db\changelog\changes
